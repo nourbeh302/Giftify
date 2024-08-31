@@ -1,0 +1,1211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\orders\\updateorder\\orderupdatednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\orders\\updateorder\\orderupdatednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243E7778-61EC-436F-8FAC-0BACE68DDB09}|SharedKernel\\SharedKernel.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\sharedkernel\\sharedkernel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{243E7778-61EC-436F-8FAC-0BACE68DDB09}|SharedKernel\\SharedKernel.csproj|solutionrelative:sharedkernel\\sharedkernel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\httprequests\\users.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\httprequests\\users.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\endpoints\\users\\uploadprofileimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\endpoints\\users\\uploadprofileimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\users\\uploadprofileimage\\uploadprofileimagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\users\\uploadprofileimage\\uploadprofileimagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\infrastructure\\payment\\paymentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\payment\\paymentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\common\\payment\\ipaymentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\common\\payment\\ipaymentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Giftify_Db/True/SqlTable/dbo.Addresses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Giftify_Db/True/SqlTable/dbo.Orders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Giftify_Db/True/SqlTable/dbo.OrderGifts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Giftify_Db/True/SqlTable/dbo.Gifts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\httprequests\\orders.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\httprequests\\orders.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\infrastructure\\payment\\paymentkeyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\payment\\paymentkeyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\infrastructure\\payment\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\payment\\paymentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\infrastructure\\payment\\paymentordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\payment\\paymentordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\orders\\addorder\\orderaddednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\orders\\addorder\\orderaddednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B865942-9FF7-4E67-8148-59808B903F5B}|Domain\\Domain.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B865942-9FF7-4E67-8148-59808B903F5B}|Domain\\Domain.csproj|solutionrelative:domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\infrastructure\\payment\\ipaymentordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\payment\\ipaymentordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\orders\\updateorder\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\orders\\updateorder\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\infrastructure\\payment\\ipaymentkeyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\payment\\ipaymentkeyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\endpoints\\orders\\updateorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\endpoints\\orders\\updateorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B865942-9FF7-4E67-8148-59808B903F5B}|Domain\\Domain.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\domain\\orders\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B865942-9FF7-4E67-8148-59808B903F5B}|Domain\\Domain.csproj|solutionrelative:domain\\orders\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B865942-9FF7-4E67-8148-59808B903F5B}|Domain\\Domain.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\domain\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B865942-9FF7-4E67-8148-59808B903F5B}|Domain\\Domain.csproj|solutionrelative:domain\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\httprequests\\gifts.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\httprequests\\gifts.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\httprequests\\products.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\httprequests\\products.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\infrastructure\\migrations\\20240831081751_addaddressentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240831081751_addaddressentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\infrastructure\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\orders\\addorder\\addordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\orders\\addorder\\addordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243E7778-61EC-436F-8FAC-0BACE68DDB09}|SharedKernel\\SharedKernel.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\sharedkernel\\dtos\\addaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243E7778-61EC-436F-8FAC-0BACE68DDB09}|SharedKernel\\SharedKernel.csproj|solutionrelative:sharedkernel\\dtos\\addaddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B865942-9FF7-4E67-8148-59808B903F5B}|Domain\\Domain.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\domain\\orders\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B865942-9FF7-4E67-8148-59808B903F5B}|Domain\\Domain.csproj|solutionrelative:domain\\orders\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\infrastructure\\repositories\\giftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\giftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\endpoints\\orders\\addorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\endpoints\\orders\\addorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\orders\\addorder\\addordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\orders\\addorder\\addordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\orders\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\orders\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\infrastructure\\payment\\paymentauthtokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\payment\\paymentauthtokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\infrastructure\\payment\\ipaymentauthtokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\payment\\ipaymentauthtokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\infrastructure\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\filters\\titledocumentfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\filters\\titledocumentfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\filters\\addbearerauthenticationheaderoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\filters\\addbearerauthenticationheaderoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\filters\\addantiforgeryheaderoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\filters\\addantiforgeryheaderoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\endpoints\\users\\listusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\endpoints\\users\\listusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\gifts\\listgifts\\listgiftsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\gifts\\listgifts\\listgiftsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\helpers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\helpers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243E7778-61EC-436F-8FAC-0BACE68DDB09}|SharedKernel\\SharedKernel.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\sharedkernel\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243E7778-61EC-436F-8FAC-0BACE68DDB09}|SharedKernel\\SharedKernel.csproj|solutionrelative:sharedkernel\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\extensions\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\infrastructure\\repositories\\cacheduserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\cacheduserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCEBAF7B-38D2-4C71-A1B1-6ED642ECCD06}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243E7778-61EC-436F-8FAC-0BACE68DDB09}|SharedKernel\\SharedKernel.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\sharedkernel\\errors\\usererrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243E7778-61EC-436F-8FAC-0BACE68DDB09}|SharedKernel\\SharedKernel.csproj|solutionrelative:sharedkernel\\errors\\usererrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243E7778-61EC-436F-8FAC-0BACE68DDB09}|SharedKernel\\SharedKernel.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\sharedkernel\\errors\\fileerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243E7778-61EC-436F-8FAC-0BACE68DDB09}|SharedKernel\\SharedKernel.csproj|solutionrelative:sharedkernel\\errors\\fileerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\endpoints\\users\\getprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\endpoints\\users\\getprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\users\\getuserbyid\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\users\\getuserbyid\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\endpoints\\auth\\getxsrftoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\endpoints\\auth\\getxsrftoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\logs\\log-20240827.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\logs\\log-20240827.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Giftify_Db/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\users\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\users\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\users\\listusers\\listusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\users\\listusers\\listusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\users\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\users\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\users\\verifyuser\\verifyusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\users\\verifyuser\\verifyusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\users\\updateuser\\updateprofilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\users\\updateuser\\updateprofilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\endpoints\\reviews\\addreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\endpoints\\reviews\\addreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\endpoints\\auth\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\endpoints\\auth\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\extensions\\endpointextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\endpointextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\webapi\\extensions\\authenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA247AAB-BE3B-4BAC-B3EA-549F74CE0057}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\authenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\common\\authentication\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\common\\authentication\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|c:\\users\\noure\\desktop\\codesandbox\\giftify\\application\\common\\authentication\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2D3938-A254-4F8E-9A7B-C6382F2DA95B}|Application\\Application.csproj|solutionrelative:application\\common\\authentication\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Orders.http",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\HttpRequests\\Orders.http",
+              "RelativeDocumentMoniker": "WebApi\\HttpRequests\\Orders.http",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\HttpRequests\\Orders.http",
+              "RelativeToolTip": "WebApi\\HttpRequests\\Orders.http",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-31T09:00:40.66Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Orders.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Giftify_Db/True/SqlTable/dbo.Orders.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Giftify_Db/True/SqlTable/dbo.Orders.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-31T09:03:03.711Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Addresses.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Giftify_Db/True/SqlTable/dbo.Addresses.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Giftify_Db/True/SqlTable/dbo.Addresses.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-31T09:06:06.995Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.http",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\HttpRequests\\Users.http",
+              "RelativeDocumentMoniker": "WebApi\\HttpRequests\\Users.http",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\HttpRequests\\Users.http",
+              "RelativeToolTip": "WebApi\\HttpRequests\\Users.http",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAswG4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-28T14:01:02.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SharedKernel.csproj",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\SharedKernel\\SharedKernel.csproj",
+              "RelativeDocumentMoniker": "SharedKernel\\SharedKernel.csproj",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\SharedKernel\\SharedKernel.csproj",
+              "RelativeToolTip": "SharedKernel\\SharedKernel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T07:52:50.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T15:08:39.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderUpdatedNotification.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Orders\\UpdateOrder\\OrderUpdatedNotification.cs",
+              "RelativeDocumentMoniker": "Application\\Orders\\UpdateOrder\\OrderUpdatedNotification.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Orders\\UpdateOrder\\OrderUpdatedNotification.cs",
+              "RelativeToolTip": "Application\\Orders\\UpdateOrder\\OrderUpdatedNotification.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:26:35.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T14:26:18.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UploadProfileImage.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Endpoints\\Users\\UploadProfileImage.cs",
+              "RelativeDocumentMoniker": "WebApi\\Endpoints\\Users\\UploadProfileImage.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Endpoints\\Users\\UploadProfileImage.cs",
+              "RelativeToolTip": "WebApi\\Endpoints\\Users\\UploadProfileImage.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:28:37.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UploadProfileImageCommand.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Users\\UploadProfileImage\\UploadProfileImageCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Users\\UploadProfileImage\\UploadProfileImageCommand.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Users\\UploadProfileImage\\UploadProfileImageCommand.cs",
+              "RelativeToolTip": "Application\\Users\\UploadProfileImage\\UploadProfileImageCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:30:48.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentProvider.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Payment\\PaymentProvider.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Payment\\PaymentProvider.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Payment\\PaymentProvider.cs",
+              "RelativeToolTip": "Infrastructure\\Payment\\PaymentProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:54:30.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPaymentProvider.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Common\\Payment\\IPaymentProvider.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Payment\\IPaymentProvider.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Common\\Payment\\IPaymentProvider.cs",
+              "RelativeToolTip": "Application\\Common\\Payment\\IPaymentProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T19:49:43.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Gifts.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Giftify_Db/True/SqlTable/dbo.Gifts.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Giftify_Db/True/SqlTable/dbo.Gifts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-31T09:02:51.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentKeyProvider.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Payment\\PaymentKeyProvider.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Payment\\PaymentKeyProvider.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Payment\\PaymentKeyProvider.cs",
+              "RelativeToolTip": "Infrastructure\\Payment\\PaymentKeyProvider.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:33:23.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.OrderGifts.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Giftify_Db/True/SqlTable/dbo.OrderGifts.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Giftify_Db/True/SqlTable/dbo.OrderGifts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-31T09:05:01.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPaymentOrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Payment\\IPaymentOrderManager.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Payment\\IPaymentOrderManager.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Payment\\IPaymentOrderManager.cs",
+              "RelativeToolTip": "Infrastructure\\Payment\\IPaymentOrderManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:07:52.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentOrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Payment\\PaymentOrderManager.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Payment\\PaymentOrderManager.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Payment\\PaymentOrderManager.cs",
+              "RelativeToolTip": "Infrastructure\\Payment\\PaymentOrderManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:26:39.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Domain\\Users\\User.cs",
+              "RelativeToolTip": "Domain\\Users\\User.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:13:33.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Payment\\PaymentResponse.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Payment\\PaymentResponse.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Payment\\PaymentResponse.cs",
+              "RelativeToolTip": "Infrastructure\\Payment\\PaymentResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:09:27.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderAddedNotification.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Orders\\AddOrder\\OrderAddedNotification.cs",
+              "RelativeDocumentMoniker": "Application\\Orders\\AddOrder\\OrderAddedNotification.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Orders\\AddOrder\\OrderAddedNotification.cs",
+              "RelativeToolTip": "Application\\Orders\\AddOrder\\OrderAddedNotification.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:34:45.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Orders\\UpdateOrder\\UpdateOrderCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Orders\\UpdateOrder\\UpdateOrderCommand.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Orders\\UpdateOrder\\UpdateOrderCommand.cs",
+              "RelativeToolTip": "Application\\Orders\\UpdateOrder\\UpdateOrderCommand.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowGYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:36:25.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:02:20.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPaymentKeyProvider.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Payment\\IPaymentKeyProvider.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Payment\\IPaymentKeyProvider.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Payment\\IPaymentKeyProvider.cs",
+              "RelativeToolTip": "Infrastructure\\Payment\\IPaymentKeyProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:08:01.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateOrder.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Endpoints\\Orders\\UpdateOrder.cs",
+              "RelativeDocumentMoniker": "WebApi\\Endpoints\\Orders\\UpdateOrder.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Endpoints\\Orders\\UpdateOrder.cs",
+              "RelativeToolTip": "WebApi\\Endpoints\\Orders\\UpdateOrder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:29:31.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Domain\\Orders\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Orders\\Order.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Domain\\Orders\\Order.cs",
+              "RelativeToolTip": "Domain\\Orders\\Order.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:18:24.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Gifts.http",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\HttpRequests\\Gifts.http",
+              "RelativeDocumentMoniker": "WebApi\\HttpRequests\\Gifts.http",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\HttpRequests\\Gifts.http",
+              "RelativeToolTip": "WebApi\\HttpRequests\\Gifts.http",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-28T14:02:17.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Products.http",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\HttpRequests\\Products.http",
+              "RelativeDocumentMoniker": "WebApi\\HttpRequests\\Products.http",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\HttpRequests\\Products.http",
+              "RelativeToolTip": "WebApi\\HttpRequests\\Products.http",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-28T14:02:02.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Domain\\Orders\\Address.cs",
+              "RelativeDocumentMoniker": "Domain\\Orders\\Address.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Domain\\Orders\\Address.cs",
+              "RelativeToolTip": "Domain\\Orders\\Address.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:31:44.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240831081751_AddAddressEntity.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Migrations\\20240831081751_AddAddressEntity.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240831081751_AddAddressEntity.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Migrations\\20240831081751_AddAddressEntity.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20240831081751_AddAddressEntity.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAiwE8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:18:00.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Domain\\Orders\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Orders\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Domain\\Orders\\IOrderRepository.cs",
+              "RelativeToolTip": "Domain\\Orders\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:25:52.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Orders\\AddOrder\\AddOrderCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Orders\\AddOrder\\AddOrderCommand.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Orders\\AddOrder\\AddOrderCommand.cs",
+              "RelativeToolTip": "Application\\Orders\\AddOrder\\AddOrderCommand.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:27:31.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:17:04.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:33:29.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddAddressDto.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\SharedKernel\\Dtos\\AddAddressDto.cs",
+              "RelativeDocumentMoniker": "SharedKernel\\Dtos\\AddAddressDto.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\SharedKernel\\Dtos\\AddAddressDto.cs",
+              "RelativeToolTip": "SharedKernel\\Dtos\\AddAddressDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:53:02.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GiftRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Repositories\\GiftRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\GiftRepository.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Repositories\\GiftRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\GiftRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:05:33.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddOrder.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Endpoints\\Orders\\AddOrder.cs",
+              "RelativeDocumentMoniker": "WebApi\\Endpoints\\Orders\\AddOrder.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Endpoints\\Orders\\AddOrder.cs",
+              "RelativeToolTip": "WebApi\\Endpoints\\Orders\\AddOrder.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:29:41.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Orders\\OrderResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Orders\\OrderResponse.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Orders\\OrderResponse.cs",
+              "RelativeToolTip": "Application\\Orders\\OrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:28:05.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddOrderCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Orders\\AddOrder\\AddOrderCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Orders\\AddOrder\\AddOrderCommandValidator.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Orders\\AddOrder\\AddOrderCommandValidator.cs",
+              "RelativeToolTip": "Application\\Orders\\AddOrder\\AddOrderCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:28:46.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PaymentAuthTokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Payment\\PaymentAuthTokenProvider.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Payment\\PaymentAuthTokenProvider.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Payment\\PaymentAuthTokenProvider.cs",
+              "RelativeToolTip": "Infrastructure\\Payment\\PaymentAuthTokenProvider.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:11:10.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IPaymentAuthTokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Payment\\IPaymentAuthTokenProvider.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Payment\\IPaymentAuthTokenProvider.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Payment\\IPaymentAuthTokenProvider.cs",
+              "RelativeToolTip": "Infrastructure\\Payment\\IPaymentAuthTokenProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:08:26.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\AssemblyReference.cs",
+              "RelativeToolTip": "Infrastructure\\AssemblyReference.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAADAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:47:20.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:49:03.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TitleDocumentFilter.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Filters\\TitleDocumentFilter.cs",
+              "RelativeDocumentMoniker": "WebApi\\Filters\\TitleDocumentFilter.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Filters\\TitleDocumentFilter.cs",
+              "RelativeToolTip": "WebApi\\Filters\\TitleDocumentFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:42:07.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T08:34:40.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Application\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\AssemblyReference.cs",
+              "RelativeToolTip": "Application\\AssemblyReference.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:25:54.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AddBearerAuthenticationHeaderOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Filters\\AddBearerAuthenticationHeaderOperationFilter.cs",
+              "RelativeDocumentMoniker": "WebApi\\Filters\\AddBearerAuthenticationHeaderOperationFilter.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Filters\\AddBearerAuthenticationHeaderOperationFilter.cs",
+              "RelativeToolTip": "WebApi\\Filters\\AddBearerAuthenticationHeaderOperationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:24:18.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AddAntiforgeryHeaderOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Filters\\AddAntiforgeryHeaderOperationFilter.cs",
+              "RelativeDocumentMoniker": "WebApi\\Filters\\AddAntiforgeryHeaderOperationFilter.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Filters\\AddAntiforgeryHeaderOperationFilter.cs",
+              "RelativeToolTip": "WebApi\\Filters\\AddAntiforgeryHeaderOperationFilter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:15:11.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ListUsers.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Endpoints\\Users\\ListUsers.cs",
+              "RelativeDocumentMoniker": "WebApi\\Endpoints\\Users\\ListUsers.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Endpoints\\Users\\ListUsers.cs",
+              "RelativeToolTip": "WebApi\\Endpoints\\Users\\ListUsers.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:17:21.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Helpers\\FileManager.cs",
+              "RelativeDocumentMoniker": "WebApi\\Helpers\\FileManager.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Helpers\\FileManager.cs",
+              "RelativeToolTip": "WebApi\\Helpers\\FileManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:19:05.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\SharedKernel\\Result.cs",
+              "RelativeDocumentMoniker": "SharedKernel\\Result.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\SharedKernel\\Result.cs",
+              "RelativeToolTip": "SharedKernel\\Result.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:02:17.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ListGiftsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Gifts\\ListGifts\\ListGiftsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Gifts\\ListGifts\\ListGiftsQuery.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Gifts\\ListGifts\\ListGiftsQuery.cs",
+              "RelativeToolTip": "Application\\Gifts\\ListGifts\\ListGiftsQuery.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:42:45.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ResultExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Extensions\\ResultExtensions.cs",
+              "RelativeDocumentMoniker": "WebApi\\Extensions\\ResultExtensions.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Extensions\\ResultExtensions.cs",
+              "RelativeToolTip": "WebApi\\Extensions\\ResultExtensions.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:54:57.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CachedUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Repositories\\CachedUserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\CachedUserRepository.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Repositories\\CachedUserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\CachedUserRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:44:10.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GetProfile.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Endpoints\\Users\\GetProfile.cs",
+              "RelativeDocumentMoniker": "WebApi\\Endpoints\\Users\\GetProfile.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Endpoints\\Users\\GetProfile.cs",
+              "RelativeToolTip": "WebApi\\Endpoints\\Users\\GetProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:35:37.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwDcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:02:52.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UserErrors.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\SharedKernel\\Errors\\UserErrors.cs",
+              "RelativeDocumentMoniker": "SharedKernel\\Errors\\UserErrors.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\SharedKernel\\Errors\\UserErrors.cs",
+              "RelativeToolTip": "SharedKernel\\Errors\\UserErrors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:41:57.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FileErrors.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\SharedKernel\\Errors\\FileErrors.cs",
+              "RelativeDocumentMoniker": "SharedKernel\\Errors\\FileErrors.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\SharedKernel\\Errors\\FileErrors.cs",
+              "RelativeToolTip": "SharedKernel\\Errors\\FileErrors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:43:07.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Users\\GetUserById\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Users\\GetUserById\\GetUserByIdQuery.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Users\\GetUserById\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "Application\\Users\\GetUserById\\GetUserByIdQuery.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:29:06.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Users\\UserResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Users\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Users\\UserResponse.cs",
+              "RelativeToolTip": "Application\\Users\\UserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:28:43.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GetXsrfToken.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Endpoints\\Auth\\GetXsrfToken.cs",
+              "RelativeDocumentMoniker": "WebApi\\Endpoints\\Auth\\GetXsrfToken.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Endpoints\\Auth\\GetXsrfToken.cs",
+              "RelativeToolTip": "WebApi\\Endpoints\\Auth\\GetXsrfToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:01:16.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Giftify_Db/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Giftify_Db/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-28T14:28:18.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Dockerfile",
+              "RelativeDocumentMoniker": "WebApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Dockerfile",
+              "RelativeToolTip": "WebApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-28T15:21:38.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "log-20240827.txt",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\logs\\log-20240827.txt",
+              "RelativeDocumentMoniker": "WebApi\\logs\\log-20240827.txt",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\logs\\log-20240827.txt",
+              "RelativeToolTip": "WebApi\\logs\\log-20240827.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-28T15:22:06.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ListUsersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Users\\ListUsers\\ListUsersQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Users\\ListUsers\\ListUsersQuery.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Users\\ListUsers\\ListUsersQuery.cs",
+              "RelativeToolTip": "Application\\Users\\ListUsers\\ListUsersQuery.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:29:30.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-28T14:30:18.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RegisterCommand.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Users\\Register\\RegisterCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Users\\Register\\RegisterCommand.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Users\\Register\\RegisterCommand.cs",
+              "RelativeToolTip": "Application\\Users\\Register\\RegisterCommand.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwEkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:16:02.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "VerifyUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Users\\VerifyUser\\VerifyUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Users\\VerifyUser\\VerifyUserCommand.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Users\\VerifyUser\\VerifyUserCommand.cs",
+              "RelativeToolTip": "Application\\Users\\VerifyUser\\VerifyUserCommand.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:18:42.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "UpdateProfileCommand.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Users\\UpdateUser\\UpdateProfileCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Users\\UpdateUser\\UpdateProfileCommand.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Users\\UpdateUser\\UpdateProfileCommand.cs",
+              "RelativeToolTip": "Application\\Users\\UpdateUser\\UpdateProfileCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:17:51.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Endpoints\\Auth\\Register.cs",
+              "RelativeDocumentMoniker": "WebApi\\Endpoints\\Auth\\Register.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Endpoints\\Auth\\Register.cs",
+              "RelativeToolTip": "WebApi\\Endpoints\\Auth\\Register.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:15:56.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "AddReview.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Endpoints\\Reviews\\AddReview.cs",
+              "RelativeDocumentMoniker": "WebApi\\Endpoints\\Reviews\\AddReview.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Endpoints\\Reviews\\AddReview.cs",
+              "RelativeToolTip": "WebApi\\Endpoints\\Reviews\\AddReview.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:43:59.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "EndpointExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Extensions\\EndpointExtensions.cs",
+              "RelativeDocumentMoniker": "WebApi\\Extensions\\EndpointExtensions.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Extensions\\EndpointExtensions.cs",
+              "RelativeToolTip": "WebApi\\Extensions\\EndpointExtensions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:54:55.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AuthenticationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Extensions\\AuthenticationExtensions.cs",
+              "RelativeDocumentMoniker": "WebApi\\Extensions\\AuthenticationExtensions.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\Extensions\\AuthenticationExtensions.cs",
+              "RelativeToolTip": "WebApi\\Extensions\\AuthenticationExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:48:08.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Common\\Authentication\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Authentication\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Common\\Authentication\\IPasswordHasher.cs",
+              "RelativeToolTip": "Application\\Common\\Authentication\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:55:31.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Common\\Authentication\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Authentication\\IJwtProvider.cs",
+              "ToolTip": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\Application\\Common\\Authentication\\IJwtProvider.cs",
+              "RelativeToolTip": "Application\\Common\\Authentication\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:55:21.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

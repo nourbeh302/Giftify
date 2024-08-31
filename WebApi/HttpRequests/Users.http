@@ -1,0 +1,117 @@
+@WebApi_HostAddress = https://localhost:44337/api
+@Version = v1
+
+@Token = 
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0NWZhOTFlZC1lZjczLTQzZDAtOGZmNC1jMzE3ZWVkMjVkN2MiLCJlbWFpbCI6Im5vdXJlbGRkaW5lLnNhbTMwMkBnbWFpbC5jb20iLCJyb2xlIjoiVXNlciIsImV4cCI6MTcyNTA5NTk5MiwiaXNzIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NDQzMzciLCJhdWQiOiJodHRwczovL2xvY2FsaG9zdDo0NDMzNyJ9.DJX6Wq98s5HT0VFpcV5fFueMf6eEUeu0P9NjRaYC9d8
+
+### Logs a user in
+
+POST {{WebApi_HostAddress}}/{{Version}}/auth/login
+Accept: application/json
+Content-Type: application/json
+
+{
+  "email": "nourelddine.sam302@gmail.com",
+  "password": "Nour12345"
+}
+
+
+### Registers a new user
+
+POST {{WebApi_HostAddress}}/{{Version}}/auth/register
+Accept: application/json
+Content-Type: application/json
+
+{
+  "firstName": "Nour Eldin",
+  "lastName": "Samir",
+  "email": "nourelddine.sam302@gmail.com",
+  "password": "Nour12345",
+  "phoneNumber": "01069988329",
+  "gender": 1,
+  "address": "Heliopolis, Cairo"
+}
+
+### Sends instant pin to the user's inbox
+
+POST {{WebApi_HostAddress}}/{{Version}}/auth/pin
+Accept: application/json
+Content-Type: application/json
+
+{
+  "email": "nourelddine.sam302@gmail.com"
+}
+
+### Verifies user
+
+POST {{WebApi_HostAddress}}/{{Version}}/auth/verify
+Accept: application/json
+Content-Type: application/json
+
+{
+  "email": "nourelddine.sam302@gmail.com",
+  "pin": "108551"
+}
+
+### Gets user profile
+
+GET {{WebApi_HostAddress}}/{{Version}}/users/profile
+Accept: application/json
+Authorization: Bearer {{Token}}
+
+### Lists users by page size and page index
+
+@PageSize = 5
+@PageIndex = 1
+
+GET {{WebApi_HostAddress}}/{{Version}}/users?pageSize={{PageSize}}&pageIndex={{PageIndex}}
+Accept: application/json
+
+### Gets a user by the identifier
+
+GET {{WebApi_HostAddress}}/{{Version}}/users/69ee116c-258c-4096-a078-6322a0ce8e83
+Accept: application/json
+
+###
+
+PATCH {{WebApi_HostAddress}}/{{Version}}/users/update
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer {{Token}}
+
+{
+  "firstName": "Nour Eldin",
+  "lastName": "Samir",
+  "email": "nourelddine.sam302@gmail.com",
+  "phoneNumber": "01069988327",
+  "gender": 1,
+  "address": "Heliopolis, Cairo"
+}
+
+### Deletes a user
+
+DELETE {{WebApi_HostAddress}}/{{Version}}/users/9dbdba4a-76d3-47aa-b889-ef8c658a4ac6
+Accept: application/json
+Content-Type: application/json
+
+### Gets a XSRF Token
+
+GET {{WebApi_HostAddress}}/{{Version}}/xsrf/token
+
+### Uploads a user profile image
+
+@XsrfToken = 
+CfDJ8Mksn9T8CChMi0j8L2fc8lmqZKxQHMMGL35uN7_zPyB_5pMjg6QatsDYtCHpgnVhWwVnf64KZeAfpYrpXWbtrRQmFnrGFro3i_eIeuMg9sfdCBls2RT5Q9hDKUQc8Y4mzHXivU0U5U_EOlbqD7ZoXio
+
+POST {{WebApi_HostAddress}}/{{Version}}/users/profile/upload
+Authorization: Bearer {{Token}}
+XSRF-TOKEN: {{XsrfToken}}
+Content-Type: multipart/form-data; boundary=boundary
+
+--boundary
+Content-Disposition: form-data; name="file"; filename="dotnet.png"
+Content-Type: image/png
+
+C:\Users\noure\Desktop\dotnet.png
+
+--boundary--

@@ -1,0 +1,75 @@
+@WebApi_HostAddress = https://localhost:44337/api
+@Version = v1
+
+@Token = 
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0NWZhOTFlZC1lZjczLTQzZDAtOGZmNC1jMzE3ZWVkMjVkN2MiLCJlbWFpbCI6Im5vdXJlbGRkaW5lLnNhbTMwMkBnbWFpbC5jb20iLCJyb2xlIjoiVXNlciIsImV4cCI6MTcyNTA5NTk5MiwiaXNzIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NDQzMzciLCJhdWQiOiJodHRwczovL2xvY2FsaG9zdDo0NDMzNyJ9.DJX6Wq98s5HT0VFpcV5fFueMf6eEUeu0P9NjRaYC9d8
+
+@PageSize = 5
+@PageIndex = 1
+
+### Lists all the products
+
+GET {{WebApi_HostAddress}}/{{Version}}/products?pageSize={{PageSize}}&pageIndex={{PageIndex}}
+Accept: application/json
+
+### Lists all the products by page size and page index
+
+GET {{WebApi_HostAddress}}/{{Version}}/products?pageSize={{PageSize}}&pageIndex={{PageIndex}}
+Accept: application/json
+
+### Gets a product by an identifier 
+
+@ProductId = 0743460a-4856-41b6-9187-eddccd22beec
+
+GET {{WebApi_HostAddress}}/{{Version}}/products/{{ProductId}}
+Accept: application/json
+
+### Creates a new product
+
+POST {{WebApi_HostAddress}}/{{Version}}/products
+Content-Type: application/json
+
+{
+  "title": "Wireless Bluetooth Headphones",
+  "description": "High-quality over-ear wireless headphones with noise-cancellation and up to 30 hours of battery life.",
+  "price": 149.99,
+  "quantity": 50,
+  "sku": "WBH-2024",
+  "category": 0
+}
+
+### Updates a product
+
+PATCH {{WebApi_HostAddress}}/{{Version}}/products/04c9a5af-b1e3-4535-ac67-0f340ae9057c
+Content-Type: application/json
+
+{
+  "title": "iPhone 15 Pro",
+  "description": "The latest flagship smartphone from Apple.",
+  "price": 1299.99,
+  "quantity": 5,
+  "sku": "IPH14P0001",
+  "category": 0
+}
+
+### Deletes a product by an identifier
+
+DELETE {{WebApi_HostAddress}}/{{Version}}/products/{{ProductId}}
+Accept: application/json
+
+### Lists all the products (page size and page number are optional)
+
+GET {{WebApi_HostAddress}}/{{Version}}/products
+Accept: application/json
+
+### Adds a new review for a product by a user
+
+POST {{WebApi_HostAddress}}/{{Version}}/reviews
+Content-Type: application/json
+Authorization: Bearer {{Token}}
+
+{
+  "rating": 3,
+  "comment": "This product is great but could be better",
+  "productId": "04c9a5af-b1e3-4535-ac67-0f340ae9057c"
+}

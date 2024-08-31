@@ -1,0 +1,83 @@
+@WebApi_HostAddress = https://localhost:44337/api
+@Version = v1
+
+@Token = 
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0NWZhOTFlZC1lZjczLTQzZDAtOGZmNC1jMzE3ZWVkMjVkN2MiLCJlbWFpbCI6Im5vdXJlbGRkaW5lLnNhbTMwMkBnbWFpbC5jb20iLCJyb2xlIjoiVXNlciIsImV4cCI6MTcyNTA5NTk5MiwiaXNzIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NDQzMzciLCJhdWQiOiJodHRwczovL2xvY2FsaG9zdDo0NDMzNyJ9.DJX6Wq98s5HT0VFpcV5fFueMf6eEUeu0P9NjRaYC9d8
+
+@PageSize = 5
+@PageIndex = 1
+
+### Lists all orders
+
+GET {{WebApi_HostAddress}}/{{Version}}/orders
+Accept: application/json
+
+### Lists user orders
+
+GET {{WebApi_HostAddress}}/{{Version}}/users/orders?pageSize=10&pageIndex=1
+Accept: application/json
+Authorization: Bearer {{Token}}
+
+
+### Makes a new order
+
+POST {{WebApi_HostAddress}}/{{Version}}/orders
+Content-Type: application/json
+Authorization: Bearer {{Token}}
+
+{
+  "giftIds": [
+    "bed203b0-1511-4856-a9cd-5ede03e1c27d"
+  ],
+  "shippingAddress": {
+    "apartment": "24",
+    "floor": "3",
+    "building": "8",
+    "street": "Al-Motawakel St.",
+    "city": "Zeitoun",
+    "country": "Egypt",
+    "governate": "Cairo",
+    "postalCode": "11725"
+  },
+  "billingAddress": {
+    "apartment": "24",
+    "floor": "3",
+    "building": "20",
+    "street": "Orabi St.",
+    "city": "Zamalek",
+    "country": "Egypt",
+    "governate": "Cairo",
+    "postalCode": "11561"
+  }
+}
+
+### Updates an order
+
+PATCH {{WebApi_HostAddress}}/{{Version}}/orders/ef250df4-76e7-42dd-8e63-951dd1f4b6ff
+Content-Type: application/json
+
+{
+  "shippingAddress": {
+    "id": "4f34c6bc-32f6-46c6-934a-0fa34789b89a",
+    "apartment": "24",
+    "floor": "3",
+    "building": "8",
+    "street": "Al-Motawakel St.",
+    "city": "Zeitoun",
+    "country": "Egypt",
+    "governate": "Cairo",
+    "postalCode": "11725"
+  },
+  "billingAddress": {
+    "id": "26e7ac1f-64fd-44b9-bdc2-530d4e3ef763",
+    "apartment": "16",
+    "floor": "5",
+    "building": "7",
+    "street": "Orabi St.",
+    "city": "Zamalek",
+    "country": "Egypt",
+    "governate": "Cairo",
+    "postalCode": "11561"
+  },
+  "orderStatus": 4
+}

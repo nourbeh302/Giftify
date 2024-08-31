@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "n4DTPWXkR8CColPb2i8TxuFzRzHhPPHYpcN0A0Di5Zk=",
+  "Source": "WebApi",
+  "BasePath": "_content/WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApi\\wwwroot",
+      "Source": "WebApi",
+      "ContentRoot": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\wwwroot\\Uploads\\dotnet_20240828214330.png",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "Uploads/dotnet_20240828214330.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\dotnet_20240828214330.png"
+    },
+    {
+      "Identity": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\wwwroot\\Uploads\\duck_nft_20240829112709.jpeg",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "Uploads/duck_nft_20240829112709.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\duck_nft_20240829112709.jpeg"
+    }
+  ]
+}

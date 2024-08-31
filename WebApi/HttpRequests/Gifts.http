@@ -1,0 +1,53 @@
+@WebApi_HostAddress = https://localhost:44337/api
+@Version = v1
+
+@Token = 
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0NWZhOTFlZC1lZjczLTQzZDAtOGZmNC1jMzE3ZWVkMjVkN2MiLCJlbWFpbCI6Im5vdXJlbGRkaW5lLnNhbTMwMkBnbWFpbC5jb20iLCJyb2xlIjoiVXNlciIsImV4cCI6MTcyNTA5NTk5MiwiaXNzIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NDQzMzciLCJhdWQiOiJodHRwczovL2xvY2FsaG9zdDo0NDMzNyJ9.DJX6Wq98s5HT0VFpcV5fFueMf6eEUeu0P9NjRaYC9d8
+
+@PageSize = 5
+@PageIndex = 1
+
+### Lists Reviews
+
+GET {{WebApi_HostAddress}}/{{Version}}/gifts
+Content-Type: application/json
+Accept: application/json
+# Authorization: Bearer {{Token}}
+
+### Makes a new gift
+
+POST {{WebApi_HostAddress}}/{{Version}}/gifts
+Content-Type: application/json
+Authorization: Bearer {{Token}}
+
+{
+  "name": "For my wife's anniversary",
+  "description": "This is my description for this gift",
+  "productIds": [
+    "beafb549-6a09-4fbd-8f27-9dbc44ec906c",
+    "7caf6b66-4108-4d38-9492-0a71ed80d7c1"
+  ]
+}
+
+### Updates a gift
+
+DELETE {{WebApi_HostAddress}}/{{Version}}/gifts/b34f0114-8101-4d4b-91c8-a11dda19984f
+Content-Type: application/json
+Authorization: Bearer {{Token}}
+
+
+### Likes a gift
+
+POST {{WebApi_HostAddress}}/{{Version}}/users/gifts/a41bdb39-a2b8-414c-96f1-1186fe9a902c/like
+Content-Type: application/json
+Authorization: Bearer {{Token}}
+
+###
+
+### Unlikes a gift
+
+POST {{WebApi_HostAddress}}/{{Version}}/users/gifts/a41bdb39-a2b8-414c-96f1-1186fe9a902c/unlike
+Content-Type: application/json
+Authorization: Bearer {{Token}}
+
+###

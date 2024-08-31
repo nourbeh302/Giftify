@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\wwwroot\\Uploads\\dotnet_20240828214330.png",
+      "PackagePath": "staticwebassets\\Uploads\\dotnet_20240828214330.png"
+    },
+    {
+      "Id": "C:\\Users\\noure\\Desktop\\CodeSandbox\\Giftify\\WebApi\\wwwroot\\Uploads\\duck_nft_20240829112709.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\duck_nft_20240829112709.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApi.props",
+      "PackagePath": "build\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApi.props",
+      "PackagePath": "buildTransitive\\WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
